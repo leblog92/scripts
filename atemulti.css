@@ -1,0 +1,6 @@
+.mytable {font-family:monospace;border-collapse:collapse;width:627px;}
+.mytable a:link{text-decoration: none;}
+.mytable td{text-align:center;border:1px solid black;padding:5px;min-width:70px;}
+.mytable #senior{background-color:#ffeb9c;}
+.mytable #young{background-color:#ffc7ce;}
+.mytable #norm{background-color:#c6efce;}
